@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.app</groupId>
-	<artifactId>SpringJenkinsApp</artifactId>
+	<artifactId>SpringJenkinsMavenWebApp</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
 	<name>SpringJenkinsApp</name>
