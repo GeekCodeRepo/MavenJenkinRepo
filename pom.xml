@@ -13,7 +13,7 @@
 	<version>1.0</version>
 	<packaging>war</packaging>
 	<name>SpringJenkinsApp</name>
-	<description>Sample Jenkins Project</description>
+	<description>Sample Mavem Jenkins Project </description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
